@@ -1,0 +1,2 @@
+# studyingAutomation
+Project for study
