@@ -1,2 +1,2 @@
-# prova_4all
+# studyingAutomation
 Project for study
